@@ -1,4 +1,4 @@
-## Ex no: 8
+## Ex no: 9
 # <p align="center">Edge linking using Hough Transform
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
